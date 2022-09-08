@@ -6,3 +6,5 @@ Oops! The ferret is gone!
 
 I have  two ferrets. 
 The first named is Shurik. And the second one named is Midori.
+
+Ferrats are predators, not rodents.
